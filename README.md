@@ -141,7 +141,7 @@ Here we have the official documentation of the frameworks that I've been working
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under none License. Feel free to share or try in your personal pc.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
