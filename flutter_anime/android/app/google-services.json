@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275057155439",
+    "project_id": "animelist-2bb6a",
+    "storage_bucket": "animelist-2bb6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275057155439:android:a5f96a9f97614d77b2dc9a",
+        "android_client_info": {
+          "package_name": "com.list.anime.flutter_anime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275057155439-u7sdn01ur1higm1p5jc6qkh5kjt2apti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJi3ju6R2mC0nWCwiueit_OXijkm7XIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275057155439-u7sdn01ur1higm1p5jc6qkh5kjt2apti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
